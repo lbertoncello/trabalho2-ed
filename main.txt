@@ -1,0 +1,52 @@
+    /*
+    if(/*strcmp(argv[0],"./Compacta")*/0 == 0)
+    {
+        FILE *entrada;
+
+        /*
+                if (argv[1] == NULL){
+                    printf("Nenhum arquivo de entrada foi informado!");
+                    return 1;
+                }else{
+                    entrada = fopen(argv[1], "rb");
+                }
+
+                if (entrada == NULL) {
+                   printf ("Houve um erro ao abrir o arquivo de Entrada.\n");
+                   return 1;
+                }
+        */
+        entrada = fopen("entrada.txt", "rb");
+
+        if (entrada == NULL)
+        {
+            printf ("Houve um erro ao abrir o arquivo de Entrada.\n");
+            return 1;
+        }
+
+        int v[256];
+        inicia_vetor(v);
+        ler_caracteres(entrada,v);
+
+        /*
+        int i;
+
+        for(i=0; i<256; i++)
+        {
+            printf("%i- ",i);
+            printf("%c: ",i);
+            printf("%i\n",v[i]);
+        }
+        */
+
+        gera_arvore(v);
+
+
+        return 0;
+    }
+    if(strcmp(argv[0],"Descompacta") == 0)
+    {
+
+        return 0;
+    }
+    return 666;

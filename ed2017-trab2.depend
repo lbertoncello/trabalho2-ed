@@ -1,0 +1,122 @@
+# depslib dependency file v1.0
+1212326470 source:c:\users\jhones\onedrive\ed2017-trab2\bitmap\bitmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bitmap.h"
+
+1212326470 
+
+1212326470 c:\users\jhones\onedrive\ed2017-trab2\bitmap\bitmap.h
+
+1499839047 source:c:\users\jhones\onedrive\ed2017-trab2\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compacta.h"
+
+1499838928 h"
+
+1499838928 source:c:\users\jhones\onedrive\ed2017-trab2\tadcompacta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compacta.h"
+
+1499835961 c:\users\jhones\onedrive\ed2017-trab2\compacta.h
+
+1499829482 source:/home/2016101232/Documentos/ed2017-trab2/bitmap/bitmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bitmap.h"
+
+1499829482 /home/2016101232/Documentos/ed2017-trab2/bitmap/bitmap.h
+
+1499884514 source:/home/2016101232/Documentos/ed2017-trab2/TADcompacta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compacta.h"
+
+1499884514 /home/2016101232/Documentos/ed2017-trab2/compacta.h
+
+1499884525 source:/home/2016101232/Documentos/ed2017-trab2/main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compacta.h"
+
+1499899462 source:c:\users\jhones\onedrive\ed2017-trab2_v3\bitmap\bitmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bitmap.h"
+
+1499899460 c:\users\jhones\onedrive\ed2017-trab2_v3\bitmap\bitmap.h
+
+1499958659 source:c:\users\jhones\onedrive\ed2017-trab2_v3\tadarvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+
+1499958780 c:\users\jhones\onedrive\ed2017-trab2_v3\arvore.h
+
+1499958780 source:c:\users\jhones\onedrive\ed2017-trab2_v3\tadcompacta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compacta.h"
+	"arvore.h"
+
+1499958780 c:\users\jhones\onedrive\ed2017-trab2_v3\compacta.h
+
+1499958755 source:c:\users\jhones\onedrive\ed2017-trab2_v3\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compacta.h"
+
+1499930408 source:c:\users\lucas\documents\ed2017-trab2_v4\bitmap\bitmap.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"bitmap.h"
+
+1499930408 c:\users\lucas\documents\ed2017-trab2_v4\bitmap\bitmap.h
+
+1499995816 source:c:\users\lucas\documents\ed2017-trab2_v4\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compacta.h"
+	"descompacta.h"
+
+1499969584 c:\users\lucas\documents\ed2017-trab2_v4\compacta.h
+
+1500033810 source:c:\users\lucas\documents\ed2017-trab2_v4\tadarvore.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"arvore.h"
+
+1499999554 c:\users\lucas\documents\ed2017-trab2_v4\arvore.h
+
+1499969640 source:c:\users\lucas\documents\ed2017-trab2_v4\tadcompacta.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"compacta.h"
+	"arvore.h"
+
+1500033752 source:c:\users\lucas\documents\ed2017-trab2_v4\taddescompacta.c
+	<stdio.h>
+	<stdlib.h>
+	"arvore.h"
+	"descompacta.h"
+	"bitmap/bitmap.h"
+
+1499995780 c:\users\lucas\documents\ed2017-trab2_v4\descompacta.h
+	"arvore.h"
+
